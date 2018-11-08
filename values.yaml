@@ -91,6 +91,7 @@ Master:
     - credentials-binding:1.16
     - git:3.9.1
     - github-oauth:0.29
+    - github-pullrequest:0.2.4
   # Used to approve a list of groovy functions in pipelines used the script-security plugin. Can be viewed under /scriptApproval
   # ScriptApproval:
   #   - "method groovy.json.JsonSlurperClassic parseText java.lang.String"
